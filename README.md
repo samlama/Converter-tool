@@ -1,5 +1,5 @@
 # Converter-tool
-#pdftoword #wordtopdf #jpttoword #imageandpdfcompressor
+#pdftoword #wordtopdf #jpgtoword #imageandpdfcompressor
 #conversion tools
 A conversion tool is software designed to convert files from one format to another, ensuring compatibility and accessibility across different applications. Here’s a brief description of common types of conversion tools:
 
